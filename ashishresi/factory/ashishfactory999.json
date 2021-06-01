@@ -1,0 +1,9 @@
+{
+	"name": "ashishfactory999",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "690d8d80-638d-4db4-a53e-a3a18d87c899",
+		"tenantId": "f2fa53a5-1986-4081-8b31-5669649cf31d"
+	}
+}
